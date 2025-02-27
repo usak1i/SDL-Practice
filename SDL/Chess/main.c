@@ -5,9 +5,9 @@
 #include <SDL2/SDL.h>
 #include <stdbool.h>
 
-#define CELL_SIZE 15
-#define ROWS 30
-#define COLS 30
+#define CELL_SIZE 30
+#define ROWS 8
+#define COLS 8
 
 #define WEIGHT COLS * CELL_SIZE
 #define HEIGHT ROWS * CELL_SIZE
