@@ -1,2 +1,2 @@
 # SDL-Practice
-Plan to build some small project to practice c language ,SDL library and game developement
+Plan to build some small projects to practice C language ,SDL library and game developement
